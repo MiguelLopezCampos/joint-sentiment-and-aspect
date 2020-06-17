@@ -1,0 +1,7 @@
+good
+bad
+location
+drinks
+food
+ambience
+service

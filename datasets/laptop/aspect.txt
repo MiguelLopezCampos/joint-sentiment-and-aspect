@@ -1,0 +1,8 @@
+support
+os
+display
+battery
+company
+mouse
+software
+keyboard
